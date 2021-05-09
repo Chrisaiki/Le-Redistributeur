@@ -6,9 +6,9 @@ Site internet ACORN + CLEANPLANET Francophone
 - La video Canva 
 - Les liens vers les outils utilisés 
 
-*http://telos.net pour créer votre compte
-*https://greymass.com/en/anchor/ pour télécharger Anchor
-*https://telos.bloks.io/ pour vérifier les transactions
+http://telos.net pour créer votre compte
+https://greymass.com/en/anchor/ pour télécharger Anchor
+https://telos.bloks.io/ pour vérifier les transactions
 	
 - Une liste des questions réponses que vous avez posées ces dernières 24h 
 
